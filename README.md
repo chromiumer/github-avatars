@@ -1,7 +1,10 @@
-# github-avatars 更新于 2020年12月21日
+## github-avatars 更新于 2020年12月21日
 
 解决github avastars icons显示问题。
-将以下内容添加至/etc/hosts文件中。
+将以下内容添加至hosts文件中。
+
+#### windows下hosts路径：C:\Windows\System32\drivers\etc\hosts
+#### Linux/MacOS下hosts路径：/etc/hosts
 
 ```
 #Github add start 199.232.96.133 443备用
